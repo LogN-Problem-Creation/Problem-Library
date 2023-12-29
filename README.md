@@ -1,2 +1,3 @@
 # Problem-Library
-Problem of this team
+
+LogN 出题组唯一官方 Repository，严禁抄袭。
